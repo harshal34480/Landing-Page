@@ -1,0 +1,28 @@
+#one {
+    display: inline-flex;
+    background-color: #808080;
+}
+
+.header {
+    margin: 100px;
+}
+
+#two {
+    background-color: #ADD8E6;
+    padding: 100px;
+}
+
+#three {
+    background-color: #7FFFD4;
+    padding: 100px;
+}
+
+#four {
+    background-color: aliceblue;
+    padding: 100px;
+}
+
+#five {
+    background-color: #240476;
+    padding: 100px;
+}
