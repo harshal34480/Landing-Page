@@ -1,9 +1,17 @@
 #one {
-    display: inline-flex;
     background-color: #808080;
+    padding: 100px;
 }
 
-.header {
+#hd {
+    display: inline-flex;
+}
+
+.h1 {
+    margin: 500px;
+}
+
+.h3 {
     margin: 100px;
 }
 
