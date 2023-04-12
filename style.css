@@ -1,36 +1,18 @@
-#one {
-    background-color: #808080;
-    padding: 100px;
+.header {
+    display: flex;
+    justify-content: space-between;
 }
 
-#hd {
-    display: inline-flex;
+.links {
+    display: flex;
 }
 
-.h1 {
-    margin: 500px;
+.spImg {
+    float: right;
+    height: 200px;
+    width: auto;
 }
 
-.h3 {
-    margin: 100px;
-}
-
-#two {
-    background-color: #ADD8E6;
-    padding: 100px;
-}
-
-#three {
-    background-color: #7FFFD4;
-    padding: 100px;
-}
-
-#four {
-    background-color: aliceblue;
-    padding: 100px;
-}
-
-#five {
-    background-color: #240476;
-    padding: 100px;
+li {
+    list-style-type: none;
 }
